@@ -77,9 +77,9 @@
 
 荔枝丹仍在不断地成长，对于外观、电路设计、文档内容甚至于荔枝丹的发展方向，我们欢迎您到 `荔枝丹 | 建议与讨论区 <http://bbs.lichee.pro/t/dan>`_ 提出您宝贵的建议。
  
-同时欢迎各位加入 `荔枝派交流群826307240 <https://jq.qq.com/?_wv=1027&k=5uWO21P>`_ | `荔枝派Telegram电报群 <https://t.me/joinchat/HH5CKkoLTnnxtdIl2U1Psg>`_ 与众多开发者、爱好者即时交流。
+同时欢迎各位加入 `荔枝派交流群826307240 <https://jq.qq.com/?_wv=1027&k=5uWO21P>`_ | `荔枝派Telegram电报群 <https://t.me/sipeed>`_ 与众多开发者、爱好者即时交流。
 
-.. figure:: http://odfef978i.bkt.clouddn.com/QQ_Group.jpg
+.. figure:: http://odfef978i.bkt.clouddn.com/QQ_Group_2.jpg
    :width: 250px
    :align: center
 
