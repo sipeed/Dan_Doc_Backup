@@ -34,7 +34,6 @@
 - 快速傅里叶变换加速器 (FFT Accelerater)
 - 高级加密加速器 (AES Accelerater) 
 - 安全散列算法加速器 (SHA256 Accelerater)  
-- 快速傅里叶变换加速器 (FFT Accelerater)
 
 |  
 .. figure:: http://pgeza64pd.bkt.clouddn.com/dan-core-borad.jpg
