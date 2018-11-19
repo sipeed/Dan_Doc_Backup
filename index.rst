@@ -12,7 +12,7 @@
   
   荔枝丹 - Lichee Dan
  
-荔枝丹使用嘉楠堪智科技的AI芯片k210作为核心单元，带独立FPU的双核处理，64位的CPU位宽，8M的片上SRAM，400M的可调标称频率，支持乘法、除法和平方根运算的双精度FPU。高性能的核心处理特性展露无遗。
+荔枝丹使用AI芯片 Kendryte K210作为核心单元，带独立FPU的双核处理，64位的CPU位宽，8M的片上SRAM，400M的可调标称频率，支持乘法、除法和平方根运算的双精度FPU。高性能的核心处理特性展露无遗。
 
 在AI处理方面k210可进行卷积、批归一化、激活、池化等运算。同时也可以进行语音方向扫描和语音数据输出的前置处理工作。
 
@@ -72,7 +72,7 @@
   
   荔枝丹引脚图
 
-您可能需要这些来进一步了解荔枝丹： `kendryte210_datasheet  <http://pgeza64pd.bkt.clouddn.com/kendryte_datasheet_20180919020633.pdf>`_ | `荔枝丹原理图 <http://pgeza64pd.bkt.clouddn.com/K210_dock.pdf>`_
+您可能需要这些来进一步了解荔枝丹： `kendryte210_datasheet  <https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/kendryte_datasheet_20180919020633.pdf>`_ | `荔枝丹原理图 <https://fdvad021asfd8q.oss-cn-hangzhou.aliyuncs.com/Sipeed_M1_hardware/K210_dock.pdf>`_
 
 荔枝丹仍在不断地成长，对于外观、电路设计、文档内容甚至于荔枝丹的发展方向，我们欢迎您到 `荔枝丹 | 建议与讨论区 <http://bbs.lichee.pro/t/dan>`_ 提出您宝贵的建议。
  
