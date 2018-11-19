@@ -30,7 +30,7 @@ k210的sdk在linux和windows下都可以进行开发
 
 如果是在linux系统下，可以通过以下操作进行代码编写
 
-1. 以hello_world为例，在 *kendryte-standalone-sdk-0.2.1* 目录下使用命令创建目录 
+1. 以hello_world为例，在 *kendryte-standalone-sdk-0.3.0* 目录下使用命令创建目录 
 ``cd src && mkdir hello_world`` 
 
 2. 使用命令进入 *hello_world* 目录，在该目录放入你自己的main.c文件及其他.c或.h文件并进行编辑
@@ -96,7 +96,7 @@ k210的sdk在linux和windows下都可以进行开发
 烧录程序
 -------------------------------------------------
 
-如果在linux下，我们需要先下载 `烧录脚本  <http://pgeza64pd.bkt.clouddn.com/isp_auto.py>`_ 
+如果在linux下，我们需要先下载 `烧录脚本  <https://fdvad021asfd8q.oss-cn-hangzhou.aliyuncs.com/Sipeed_M1_hardware/isp_auto.py>`_ 
 
 使用命令下载脚本
 ``wget http://pgeza64pd.bkt.clouddn.com/isp_auto.py``
@@ -109,25 +109,25 @@ k210的sdk在linux和windows下都可以进行开发
 以笔者的hello_world为例，则命令如下
 ``python3 /home/isptools/isp_auto.py  -d /dev/ttyUSB0  /opt/k210_sdk/build/hello_world.bin -b 200000``
 
-如果是在window下，则可以一键烧录二进制文件，我们先下载 `烧录软件  <http://pgeza64pd.bkt.clouddn.com/K-Flash.exe>`_ 
+如果是在window下，则可以一键烧录二进制文件，我们先下载 `烧录软件  <https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/K-Flash-V0.3.0.zip>`_ 
 
 点击蓝色字烧录软件即可下载
 
 打开烧录软件，点击图中红圈选中二进制文件所在路径
 
-.. figure:: http://pgeza64pd.bkt.clouddn.com/bin_path.png
+.. figure:: https://fdvad021asfd8q.oss-cn-hangzhou.aliyuncs.com/Sipeed_M1_hardware/kflash_path.jpg
    :width: 250px
    :align: center
   
 再选择通信串口
 
-.. figure:: http://pgeza64pd.bkt.clouddn.com/device.png
+.. figure:: https://fdvad021asfd8q.oss-cn-hangzhou.aliyuncs.com/Sipeed_M1_hardware/kflash_dev.jpg
    :width: 250px
    :align: center
 
 波特率选择2000000
 
-.. figure:: http://pgeza64pd.bkt.clouddn.com/btr.png
+.. figure:: https://fdvad021asfd8q.oss-cn-hangzhou.aliyuncs.com/Sipeed_M1_hardware/kflash_rate.jpg
    :width: 250px
    :align: center
 
