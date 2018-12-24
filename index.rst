@@ -6,7 +6,7 @@
 人工智能浪潮正在席卷而来，在这种环境下，荔枝丹经过数月打磨，终于在10月，向各位热爱开源和人工智能的极客们见面了。
 荔枝丹是国内一款优秀的开源AI开发套件，志在推广AI相关的开发和教育，集成Micropython，让开发不再困难。
 
-.. figure:: http://pgeza64pd.bkt.clouddn.com/dan-board.jpg
+.. figure:: https://fdvad021asfd8q.oss-cn-hangzhou.aliyuncs.com/Sipeed_M1_hardware/Sipeed_M1.jpg
   :width: 500px
   :align: center
   
@@ -36,7 +36,7 @@
 - 安全散列算法加速器 (SHA256 Accelerater)  
 
 |  
-.. figure:: http://pgeza64pd.bkt.clouddn.com/dan-core-borad.jpg
+.. figure:: https://fdvad021asfd8q.oss-cn-hangzhou.aliyuncs.com/Sipeed_M1_hardware/Maix_core.jpg
   :width: 500px
   :align: center
   
@@ -66,7 +66,7 @@
 - 板载高速DAC
 - 可带麦克风阵列扩展板进行语音识别，波束成型，声场成像
 
-.. figure:: http://pgeza64pd.bkt.clouddn.com/dan-pin.png
+.. figure:: https://fdvad021asfd8q.oss-cn-hangzhou.aliyuncs.com/Sipeed_M1_hardware/Maix_core_pin.jpg
   :width: 500px
   :align: center
   
