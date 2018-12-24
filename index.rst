@@ -78,7 +78,7 @@
  
 同时欢迎各位加入 `荔枝派交流群826307240 <https://jq.qq.com/?_wv=1027&k=5uWO21P>`_ | `荔枝派Telegram电报群 <https://t.me/sipeed>`_ 与众多开发者、爱好者即时交流。
 
-.. figure:: http://odfef978i.bkt.clouddn.com/QQ_Group_2.jpg
+.. figure:: https://fdvad021asfd8q.oss-cn-hangzhou.aliyuncs.com/Sipeed_M1_hardware/licheePi_groupnum.png
    :width: 250px
    :align: center
 
